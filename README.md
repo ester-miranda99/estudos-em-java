@@ -7,14 +7,6 @@ OBS.: TODOS os códigos terão comentários para fins didáticos.
 
 ---
 
-## 🚀 Por que esse repositório existe?
-
-Porque aprender Java é tipo pedir café sem açúcar e fingir que tá tudo bem. No começo amarga, mas depois você percebe que dá pra ir longe com ele 😅☕
-
-Aqui eu vou codar passo a passo, me perdendo no Eclipse e me encontrando nos commits — e tudo isso com muito bom humor, porque surtar programando é arte 🖤
-
----
-
 ## 📚 O que vai ter aqui?
 
 - `👋` **Primeiros passos**
