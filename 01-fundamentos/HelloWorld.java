@@ -2,9 +2,9 @@
 // O nome da classe deve ser o mesmo do arquivo, neste caso HelloWorld.java
 // 'public' significa que a classe é pública e pode ser acessada de qualquer lugar.
 // 'class' é a palavra-chave que define uma classe em Java.
-// 'HelloWorld' é o nome da classe, que deve começar com letra maiúscula por convenção.
+// '01_HelloWorld' é o nome da classe, que deve começar com letra maiúscula por convenção.
 
-public class HelloWorld {
+public class 01_HelloWorld {
     // O método main é o ponto de entrada da aplicação Java.
     // 'public' significa que o ambiente de execução do Java (JVM) pode acessar esse método de qualquer lugar.
     // 'static' permite que o Java rode esse método sem precisar criar um objeto da classe.
