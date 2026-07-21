@@ -3,6 +3,8 @@
 Oiê! 🌸 Esse é o meu repositório de estudos da linguagem Java!  
 Aqui você vai encontrar desde o famoso “Hello, World!” até o mundo misterioso da Programação Orientada a Objetos 🧙‍♂️✨
 
+OBS.: TODOS os códigos terão comentários para fins didáticos.
+
 ---
 
 ## 🚀 Por que esse repositório existe?
