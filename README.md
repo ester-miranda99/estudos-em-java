@@ -65,6 +65,7 @@ Esse é o meu repositório de estudos da linguagem Java. Aqui reúno todas as at
 ## 🛠️ Tecnologias e ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Curso%20do%20N%C3%A9lio%20Alves-A435F0?style=flat-square&logo=udemy&logoColor=white)
