@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Java%20na%20Veia&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Do%20%22Hello%2C%20World!%22%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos&descSize=18&descAlignY=72" alt="Java na Veia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B45A6&height=200&section=header&text=Java%20na%20Veia&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Do%20%22Hello%2C%20World!%22%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos&descSize=18&descAlignY=72" alt="Java na Veia" />
 
 <br>
 
@@ -13,9 +13,9 @@
 
 <br>
 
-## Sobre o projeto
+## 🌸 Sobre o projeto
 
-Esse é o meu repositório de estudos da linguagem Java. Aqui reúno todas as atividades e exercícios que resolvo ao longo do aprendizado, organizados em pastas temáticas, para documentar o que já domino, o que estou praticando e o que ainda vem pela frente.
+Oiê! ☕ Este é o meu repositório de estudos da linguagem Java. Aqui reúno todas as atividades e exercícios que resolvo ao longo do aprendizado, organizados em pastas temáticas, para documentar o que já domino, o que estou praticando e o que ainda vem pela frente. ✨
 
 > [!NOTE]
 > Todos os códigos possuem comentários com finalidade didática, explicando o raciocínio de cada solução.
@@ -73,7 +73,7 @@ Esse é o meu repositório de estudos da linguagem Java. Aqui reúno todas as at
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5B45A6&height=100&section=footer" alt="" />
 
 Feito com ☕ e muita dedicação 🌸
 
