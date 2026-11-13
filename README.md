@@ -1,116 +1,80 @@
-<h1 align="center">Java na Veia</h1>
+<div align="center">
 
-<p align="center">
-  Repositório de estudos da linguagem Java, dos fundamentos à Programação Orientada a Objetos.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Java%20na%20Veia&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Do%20%22Hello%2C%20World!%22%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos&descSize=18&descAlignY=72" alt="Java na Veia" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-100%25-orange?logo=openjdk&logoColor=white" alt="Java 100%" />
-  <img src="https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-blue" alt="Status: em evolução" />
-  <img src="https://img.shields.io/badge/c%C3%B3digos-comentados-success" alt="Códigos comentados" />
-</p>
+<br>
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-8A2BE2?style=for-the-badge)
 
-## Sumário
+</div>
 
-- [Sobre o projeto](#sobre-o-projeto)
-- [Objetivos](#objetivos)
-- [Conteúdo](#conteúdo)
-- [Estrutura do repositório](#estrutura-do-repositório)
-- [Andamento dos estudos](#andamento-dos-estudos)
-- [Tecnologias e ferramentas](#tecnologias-e-ferramentas)
-- [Como executar](#como-executar)
-- [Próximos passos](#próximos-passos)
-- [Contato](#contato)
+<br>
 
-## Sobre o projeto
+## 🌸 Sobre o projeto
 
-Este repositório reúne os exercícios e as atividades desenvolvidos durante o meu estudo da linguagem Java. O conteúdo está organizado em pastas temáticas e documenta a evolução do aprendizado: o que já foi consolidado, o que está em prática e os próximos tópicos.
+Oiê! ☕ Este é o meu repositório de estudos da linguagem Java. Aqui reúno todas as atividades e exercícios que resolvo ao longo do aprendizado, organizados em pastas temáticas, para documentar o que já domino, o que estou praticando e o que ainda vem pela frente. ✨
 
-> **Observação:** todos os códigos possuem comentários com finalidade didática, explicando o raciocínio de cada solução.
+> [!NOTE]
+> Todos os códigos possuem comentários com finalidade didática, explicando o raciocínio de cada solução.
 
-## Objetivos
+<br>
 
-- Consolidar os fundamentos da linguagem Java por meio de prática constante
-- Evoluir da lógica de programação até a Programação Orientada a Objetos
-- Construir uma base sólida para atuação em desenvolvimento back-end
+## 📚 Conteúdo
 
-## Conteúdo
+| | Módulo | Tópicos |
+| :-: | :-- | :-- |
+| 👋 | **Primeiros passos** | Hello, World! · Entrada e saída de dados · Tipos de dados e variáveis · Comentários, indentação e boas práticas |
+| 🔢 | **Algoritmos matemáticos** | Adição · Subtração · Multiplicação · Divisão · Módulo |
+| 🔀 | **Estruturas de controle** | `if` / `else` / `switch` · `for` / `while` / `do-while` |
+| 🧱 | **Programação Orientada a Objetos** | Classes e objetos · Atributos e métodos · Encapsulamento · Exercícios práticos (ex.: controle de estoque) |
 
-### Primeiros passos
-- Hello, World!
-- Entrada e saída de dados
-- Tipos de dados e variáveis
-- Comentários, indentação e boas práticas
+<br>
 
-### Algoritmos matemáticos
-- Operações básicas: adição, subtração, multiplicação, divisão e módulo
-
-### Estruturas de controle
-- Condicionais: `if`, `else` e `switch`
-- Laços de repetição: `for`, `while` e `do-while`
-
-### Programação Orientada a Objetos
-- Classes, objetos, atributos e métodos
-- Encapsulamento
-- Exercícios práticos, como o controle de estoque
-
-## Estrutura do repositório
+## 🗂️ Estrutura do repositório
 
 ```text
-estudos-em-java/
-├── 01-fundamentos/     # Fundamentos, estruturas de controle e algoritmos
-├── 02-POO/             # Programação Orientada a Objetos
-├── .gitignore
-└── README.md
+📦 estudos-em-java
+ ┣ 📂 01-fundamentos    → fundamentos, estruturas de controle e algoritmos
+ ┣ 📂 02-POO            → programação orientada a objetos
+ ┣ 📄 .gitignore
+ ┗ 📄 README.md
 ```
 
-## Andamento dos estudos
+<br>
 
-| Tema                            | Status       |
-| ------------------------------- | ------------ |
-| Fundamentos da linguagem        | Concluído    |
-| Algoritmos matemáticos          | Concluído    |
-| Estruturas de controle          | Concluído    |
-| Programação Orientada a Objetos | Em andamento |
-| Coleções (`List`, `Map`, `Set`) | Planejado    |
-| Tratamento de exceções          | Planejado    |
-| Banco de dados e JDBC           | Planejado    |
-| Testes automatizados (JUnit)    | Planejado    |
+## 📈 Andamento dos estudos
 
-## Tecnologias e ferramentas
+| Tema | Progresso | Status |
+| :-- | :-- | :-: |
+| Fundamentos da linguagem | `██████████` 100% | ✅ |
+| Algoritmos matemáticos | `██████████` 100% | ✅ |
+| Estruturas de controle | `██████████` 100% | ✅ |
+| Programação Orientada a Objetos | `████░░░░░░` 40% | 🚧 |
+| Coleções (`List`, `Map`, `Set`) | `░░░░░░░░░░` 0% | 📅 |
+| Tratamento de exceções | `░░░░░░░░░░` 0% | 📅 |
+| Banco de dados e JDBC | `░░░░░░░░░░` 0% | 📅 |
+| Testes automatizados (JUnit) | `░░░░░░░░░░` 0% | 📅 |
 
-- **Linguagem:** Java
-- **Versionamento:** Git e GitHub
-- **Material de estudo:** curso de Java do professor Nélio Alves (Udemy)
+> ✅ Concluído &nbsp;·&nbsp; 🚧 Em andamento &nbsp;·&nbsp; 📅 Planejado
 
-## Como executar
+<br>
 
-Pré-requisito: **JDK** instalado.
+## 🛠️ Tecnologias e ferramentas
 
-```bash
-# Clonar o repositório
-git clone https://github.com/ester-miranda99/estudos-em-java.git
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Udemy](https://img.shields.io/badge/Curso%20do%20N%C3%A9lio%20Alves-A435F0?style=flat-square&logo=udemy&logoColor=white)
 
-# Acessar a pasta do projeto
-cd estudos-em-java
+<br>
 
-# Compilar e executar um exercício (exemplo)
-javac NomeDoArquivo.java
-java NomeDoArquivo
-```
+<div align="center">
 
-Os arquivos também podem ser abertos e executados em uma IDE, como IntelliJ IDEA, Eclipse ou VS Code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
 
-## Próximos passos
+Feito com ☕ e muita dedicação 🌸
 
-- [ ] Concluir o módulo de Programação Orientada a Objetos
-- [ ] Estudar coleções e tratamento de exceções
-- [ ] Praticar acesso a banco de dados com JDBC
-- [ ] Aplicar o conhecimento em projetos de back-end
-
-## Contato
-
-- GitHub: [ester-miranda99](https://github.com/ester-miranda99)
-- LinkedIn: _adicione aqui o link do seu perfil_
+</div>
